@@ -16,4 +16,4 @@ Practice designing responsive web page using unfamiliar technologies (Tailwind C
 
 - Download and clone this repository
 - Run npm run dev, application will run locally
-- Application deployed live on Render:
+- Application deployed live on Render: https://nike-clone-t5eg.onrender.com/
